@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 12.971599,
+        "lng": 77.594566
+      },
+      "id": "73930185"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Murdeshwara",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 14.0937,
+        "lng": 74.4848
+      },
+      "id": "7393012985"
+    },
+    {
+      "id": "ed09",
+      "cityName": "Mangalore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-26T06:33:43.628Z",
+      "notes": "Sujana Manga",
+      "position": {
+        "lat": "12.864020841931762",
+        "lng": "74.84024047851564"
+      }
+    },
+    {
+      "id": "e00e",
+      "cityName": "Sencelles",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-28T11:12:09.403Z",
+      "notes": "",
+      "position": {
+        "lat": "39.65466704276531",
+        "lng": "2.9167084876065807"
+      }
+    },
+    {
+      "id": "a6fb",
+      "cityName": "Sepulveda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-06-28T11:17:19.639Z",
+      "notes": "scfffffffff",
+      "position": {
+        "lat": "41.26008396755051",
+        "lng": "-3.7149064595664187"
+      }
+    }
+  ]
+}
