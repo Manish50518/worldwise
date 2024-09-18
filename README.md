@@ -9,7 +9,6 @@ Currently, two official plugins are available:
 ![Screenshot 2024-08-08 125208](https://github.com/user-attachments/assets/6cc90260-bbc5-4f82-8407-87a69be4f13b)
 ![Screenshot 2024-08-08 125216](https://github.com/user-attachments/assets/fd67302e-3ae7-4ea7-8fd2-8dac4b22983c)
 ![Screenshot 2024-08-08 125220](https://github.com/user-attachments/assets/01514e9c-c174-489c-b113-0feb3eeff6a8)
-![Screenshot 2024-08-08 125220](https://github.com/user-attachments/assets/3eee7e87-d69a-4cdb-965f-cfc1be6cf777)
 ![Screenshot 2024-08-08 125227](https://github.com/user-attachments/assets/1b2d9fbc-2de4-4c23-927e-f8705bcc7ac4)
 ![Screenshot 2024-08-08 125239](https://github.com/user-attachments/assets/cad3da0b-d328-4f82-82bb-074806ce0ea0)
 ![Screenshot 2024-08-08 125249](https://github.com/user-attachments/assets/21d44560-ce74-4da3-ace7-ac3def20effb)
